@@ -1,0 +1,56 @@
+{
+  "name": "gulp-rev2",
+  "version": "1.0.6",
+  "description": "improve gulp-rev",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/makemoretime/gulp-rev2.git"
+  },
+  "author": "yunzhao.li <516911028@qq.com>",
+  "engines": {
+    "node": ">=4"
+  },
+  "scripts": {
+    "test": "xo && ava"
+  },
+  "files": [
+    "index.js"
+  ],
+  "keywords": [
+    "gulpplugin",
+    "rev",
+    "revving",
+    "revision",
+    "hash",
+    "optimize",
+    "version",
+    "versioning",
+    "cache",
+    "expire",
+    "static",
+    "asset",
+    "assets"
+  ],
+  "dependencies": {
+    "gulp-util": "^3.0.0",
+    "modify-filename": "^1.1.0",
+    "rev-hash": "^2.0.0",
+    "rev-path": "^1.0.0",
+    "sort-keys": "^2.0.0",
+    "through2": "^2.0.0",
+    "underscore": "^1.8.3",
+    "vinyl-file": "^3.0.0"
+  },
+  "devDependencies": {},
+  "bugs": {
+    "url": "https://github.com/makemoretime/gulp-rev2/issues"
+  },
+  "homepage": "https://github.com/makemoretime/gulp-rev2#readme",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "_from": "gulp-rev2@1.0.6",
+  "_resolved": "http://registry.npm.taobao.org/gulp-rev2/download/gulp-rev2-1.0.6.tgz"
+}
